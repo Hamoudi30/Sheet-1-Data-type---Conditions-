@@ -2,11 +2,8 @@
 #include <cmath>
 using namespace std;
 int main () {
-    
-    string s; 
-    cin >> s; 
-    cout << "Hello, " << s; 
-
-
-    return 0;
+  string s; 
+  cin >> s; 
+  cout << "Hello, " << s; 
+  return 0;
 }
